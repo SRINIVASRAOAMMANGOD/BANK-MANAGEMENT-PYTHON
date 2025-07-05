@@ -110,5 +110,4 @@ DETAILS BY TAKING USER INPUTS.
 
 ##  LINK TO INVESTIGATORY PROJECT 
 
-https://drive.google.com/drive/folders/13xE6P1nDjphU-uhzdWu4Gr4HRCBpz1dl
-
+https://drive.google.com/file/d/13y3NcsyQd7k0yteQ2FYTZLgSkR8U2T90/view?usp=drivesdk
